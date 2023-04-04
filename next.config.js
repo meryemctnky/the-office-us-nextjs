@@ -5,7 +5,7 @@ const nextConfig = {
     BASE_URL: process.env.BASE_URL,
   },
   images: {
-    domains: ['drive.google.com'],
+    domains: ['www.hizliresim.com', 'i.hizliresim.com'],
   },
 };
 
